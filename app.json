@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "expo-ass-player-clean",
+    "slug": "expo-ass-player-clean",
+    "platforms": ["ios", "android", "web"]
+  }
+}
